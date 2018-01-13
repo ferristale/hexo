@@ -1,6 +1,6 @@
 'use strict';
 
-describe('Processors', function() {
+describe('Processors', () => {
   require('./asset');
   require('./common');
   require('./data');

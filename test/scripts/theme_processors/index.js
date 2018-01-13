@@ -1,6 +1,6 @@
 'use strict';
 
-describe('Theme processors', function() {
+describe('Theme processors', () => {
   require('./config');
   require('./i18n');
   require('./source');

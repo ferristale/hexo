@@ -1,6 +1,6 @@
 'use strict';
 
-describe('Console', function() {
+describe('Console', () => {
   require('./clean');
   require('./config');
   require('./deploy');
